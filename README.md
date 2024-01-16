@@ -25,6 +25,4 @@
 - **CSS** - Cascading Style Sheets for styling HTML elements.
 - **JavaScript** - A programming language that enables interactive web pages.
 
-##  License
 
-[MIT](#) - Created by [**Franco Sbaffi**](https://www.linkedin.com/in/franco-sbaffi/).
